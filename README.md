@@ -8,7 +8,7 @@
 
 From basic to advanced commands, I added the explanation in the **collapsed sections** below the command sample, simply click on them to expand it. It's just for fun, good luck! :heart:</span>
 
-Feel free to reach out to me! 😊 <br /><a href="https://in.linkedin.com/in/rateesh-koganti-50518b132">LinkedIn</a>
+Feel free to reach out to me! 😊 <br /><a href="https://in.linkedin.com/in/rateeshkoganti">LinkedIn</a>
 </div>
 
 ---
